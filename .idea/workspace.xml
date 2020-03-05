@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e723307-48ac-44a6-8b9f-3218e758dcff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git-1" />
+  </component>
+  <component name="ProjectId" id="1YV6sM4tOYd0ZRW0I3jfG1P4wNa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e723307-48ac-44a6-8b9f-3218e758dcff" name="Default Changelist" comment="" />
+      <created>1583015619932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583015619932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="177" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583017558385">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state x="177" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1295.744@65.24.1295.744" timestamp="1583017558384" />
+    <state x="376" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583187622858">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state x="376" y="188" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1295.744@65.24.1295.744" timestamp="1583187622858" />
+    <state x="558" y="275" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583015656693">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state x="558" y="275" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/65.24.1295.744@65.24.1295.744" timestamp="1583015656693" />
+    <state x="373" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1583362419044">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state x="373" y="211" key="com.intellij.ide.util.TipDialog/65.24.1295.744@65.24.1295.744" timestamp="1583362419044" />
+    <state x="381" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583354172946">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state x="381" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/65.24.1295.744@65.24.1295.744" timestamp="1583354172946" />
+  </component>
+</project>
