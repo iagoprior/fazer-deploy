@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e723307-48ac-44a6-8b9f-3218e758dcff" name="Default Changelist" comment="" />
+    <list default="true" id="1e723307-48ac-44a6-8b9f-3218e758dcff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-3/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/java-3/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-3/src/main/java/challenge/CSVReaderOpen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-3/src/main/java/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-3/src/main/java/challenge/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git-1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YV6sM4tOYd0ZRW0I3jfG1P4wNa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,13 +52,17 @@
       <screen x="65" y="24" width="1295" height="744" />
     </state>
     <state x="558" y="275" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/65.24.1295.744@65.24.1295.744" timestamp="1583015656693" />
-    <state x="373" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1583362419044">
+    <state x="373" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1583712000562">
       <screen x="65" y="24" width="1295" height="744" />
     </state>
-    <state x="373" y="211" key="com.intellij.ide.util.TipDialog/65.24.1295.744@65.24.1295.744" timestamp="1583362419044" />
+    <state x="373" y="211" key="com.intellij.ide.util.TipDialog/65.24.1295.744@65.24.1295.744" timestamp="1583712000562" />
     <state x="381" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583354172946">
       <screen x="65" y="24" width="1295" height="744" />
     </state>
     <state x="381" y="61" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/65.24.1295.744@65.24.1295.744" timestamp="1583354172946" />
+    <state x="65" y="24" key="new project wizard" timestamp="1583548970583">
+      <screen x="65" y="24" width="1295" height="744" />
+    </state>
+    <state x="65" y="24" key="new project wizard/65.24.1295.744@65.24.1295.744" timestamp="1583548970583" />
   </component>
 </project>
